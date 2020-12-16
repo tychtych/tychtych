@@ -14,7 +14,7 @@
 
 - 📝I’m looking to collaborate on **customer-facing app on one of the following spheres: art, wellness, coommunity**
 
-- 🌱 I’m currently learning **GraphQL + Amplify**
+- 🌱 I’m currently learning **GraphQL + AWS Amplify**
 
 - 👨‍💻 All of my projects are available at **https://tychtych.dev**
 
